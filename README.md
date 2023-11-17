@@ -46,5 +46,5 @@ Users should be able to:
 ## Author
 
 - Rituraj Hao
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@Rituraj27)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Rituraj27)
 - Twitter - [Rituraj_49](https://www.twitter.com/Rituraj_49)
